@@ -12,13 +12,23 @@ Here is a small description on each project;
 * [HelloWorld.c](./HelloWorld.c) : The first code I have written in C Programming.
 * [Arguments.c](./Arguments.c) : A program that describes how to use arguments.
 * [ArithmeticOperators.c](./ArithmeticOperators.c) : A program showing the use of different arithmetic operators.
+* [ArrayLoop.c](./ArrayLoop.c) : A program that shows the use of array loops.
+* [Arrays.c](./Arrays.c) : A program to declare and initialize arrays.
+* [Arrays2D.c](./Arrays2D.c) : A program to declare and initialize 2D arrays.
+* [ArraySort.c](./ArraySort.c) : A program to sort out an array using the Bubble Sort algorithm.
+* [ArrayStrings.c](./ArrayStrings.c) : A program to show how arrays are used in strings.
+* [ArrayStructs.c](./ArrayStructs.c) : A program to show how arrays are used in structures.
 * [AugmentedAssOp.c](./AugmentedAssOp.c) : A program showing the use of augmented arithmetic operators.
 * [Calculator.c](./Calculator.c) : A program to create a miniature calculator using switch case.
 * [Circumference.c](./Circumference.c) : A program to get circumference and area of a circle.
 * [Constants.c](./Constants.c) : A program showing the use of constants in declaring and initializing variables.
 * [DataTypes.c](./DataTypes.c) : A program showing and explaining the different data types.
+* [DoWhileLoop.c](./DoWhileLoop.c) : A program to show the use of Do While loops.
+* [Enums.c](./Enums.c) : A program that shows the declaration, initialization and use of enumerations.
 * [ForLoops.c](./ForLoops.c) : A program that describes how to use for loops.
 * [FormatSpecifiers.c](./FormatSpecifiers.c) : A program that explains how to use format specifiers.
+* [Func2.c](./Func2.c) : A program to further explain functions and function prototypes.
+* [Func2Test.c](./Func2Test.c) : A program that takes two numbers, multiplies them and returns the result using functions.
 * [FuncProt.c](./FuncProt.c) : A program that shows how to work with a function prototype.
 * [Functions.c](./Functions.c) : A program that shows how to call a function to the main function.
 * [Hypotenuse.c](./Hypotenuse.c) : A program that calculates the hypotenuse and area of a triangle.
@@ -27,11 +37,15 @@ Here is a small description on each project;
 * [LogicalOp||.c](./LogicalOp%7C%7C.c) : A program that explains how to work with the logical OR operator.
 * [LogicalOpNOT.c](./LogicalOpNOT.c) : A program that explains how to work with the logical NOT operator.
 * [MathFunctions.c](./MathFunctions.c) : A program that explains and shows the use of the math header file.
+* [NestedLoops.c](./NestedLoops.c) : A program that shows the use of nested loops.
 * [Return.c](./Return.c) : A program that shows the work of the return function in the code.
 * [StringFunctions.c](./StringFunctions.c) : A program that shows how to work with string functions.
+* [Structs.c](./Structs.c) : A program that shows the use of structures.
+* [SwapVal.c](./SwapVal.c) : A program that shows how to swap two values using a third variable.
 * [SwitchStatements.c](./SwitchStatements.c) : A program that shows how to work with switch statements.
 * [TemperatureConv.c](./TemperatureConv.c) : A program that converts the temperature between celcius and centigrade.
 * [Ternary.c](./Ternary.c) : A program that shows how to work with a ternary operator.
+* [Typedef.c](./Typedef.c) : A program that shows how to work woth the typedef reserved keyword.
 * [UserInput.c](./UserInput.c) : A program that shows the different ways to input data into a code.
 * [Variables.c](./Variables.c) : A program that explains and shows how to declare and initialize variables.
 * [WhileLoops.c](./WhileLoops.c) : A program that shows how to work with while loops.
