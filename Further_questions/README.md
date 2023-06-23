@@ -26,7 +26,9 @@ These are the various projects and their small definitions for whoever would req
 * [19-Stars2.c](./19-Stars2.c) : A program that prints stars in the second sequence.
 * [20-Stars3.c](./20-Stars3.c) : A program that prints stars in the third sequence.
 * [21-Fibonacci.c](./21-Fibonacci.c) : A program that prints the fibonacci numbers from 0 to 100.
-* [22-Factorial.c](./22-Factorial.c) : A probram that prints the factorial of an input number.
+* [22-Factorial.c](./22-Factorial.c) : A program that prints the factorial of an input number.
+* [23-Prime.c](./23-Prime.c) : A program that prints out whether a number is a prime number or not.
+* [24-Sort.c](./24-Sort.c): A program to sort out elements in an array using Bubble Sort.
 
 # Conclusion 🏁
 I hope that you are all doing well and that everything is working out. 
