@@ -37,7 +37,10 @@ Here is a small description on each project;
 * [LogicalOp||.c](./LogicalOp%7C%7C.c) : A program that explains how to work with the logical OR operator.
 * [LogicalOpNOT.c](./LogicalOpNOT.c) : A program that explains how to work with the logical NOT operator.
 * [MathFunctions.c](./MathFunctions.c) : A program that explains and shows the use of the math header file.
+* [MemoryAddresses.c](./MemoryAddresses.c) : A program that shows how to work with memory addresses.
 * [NestedLoops.c](./NestedLoops.c) : A program that shows the use of nested loops.
+* [Pointers.c](./Pointers.c) : A program that shows how to work with pointers.
+* [ReadingFiles.c](./ReadingFiles.c) : A program that shows how to read into files.
 * [Return.c](./Return.c) : A program that shows the work of the return function in the code.
 * [StringFunctions.c](./StringFunctions.c) : A program that shows how to work with string functions.
 * [Structs.c](./Structs.c) : A program that shows the use of structures.
@@ -49,6 +52,7 @@ Here is a small description on each project;
 * [UserInput.c](./UserInput.c) : A program that shows the different ways to input data into a code.
 * [Variables.c](./Variables.c) : A program that explains and shows how to declare and initialize variables.
 * [WhileLoops.c](./WhileLoops.c) : A program that shows how to work with while loops.
+* [WritingFiles.c](./WritingFiles.c) : A program that shows how to write into files.
 * [0-Alphabet.c](./0-Alphabet.c) : A Program that prints the alphabet in lowercase.
 * [1-Number.c](./1-Number.c) : A program that prints numbers from 0 to 9.
 * [2-SimpleInterest.c](./2-SimpleInterest.c) : A progam that prints the Simple Interest.
