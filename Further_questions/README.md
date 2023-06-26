@@ -28,7 +28,12 @@ These are the various projects and their small definitions for whoever would req
 * [21-Fibonacci.c](./21-Fibonacci.c) : A program that prints the fibonacci numbers from 0 to 100.
 * [22-Factorial.c](./22-Factorial.c) : A program that prints the factorial of an input number.
 * [23-Prime.c](./23-Prime.c) : A program that prints out whether a number is a prime number or not.
-* [24-Sort.c](./24-Sort.c): A program to sort out elements in an array using Bubble Sort.
+* [24-Sort.c](./24-Sort.c) : A program to sort out elements in an array using Bubble Sort.
+* [25-Pattern.c](./25-Pattern.c) : A program to write down a pattern and find the sum of the numbers.
+* [26-Bitwise&.c](./26-Bitwise%26.c) : A program to show how Bitwise & is used.
+* [27-PointerAdd.c](./27-PointerAdd.c) : A program to show the addition between two pointers.
+* [28-ArrayAdd.c](./28-ArrayAdd.c) : A program to show the addition of elements in an array.
+* [29-MaxNumArray.c](./29-MaxNumArray.c) : A program to find the maximum number in an array.
 
 # Conclusion 🏁
 I hope that you are all doing well and that everything is working out. 

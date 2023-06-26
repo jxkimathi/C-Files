@@ -38,6 +38,7 @@ Here is a small description on each project;
 * [LogicalOp&&.c](./LogicalOp%26%26.c) : A program that explains how to work with the logical AND operator.
 * [LogicalOp||.c](./LogicalOp%7C%7C.c) : A program that explains how to work with the logical OR operator.
 * [LogicalOpNOT.c](./LogicalOpNOT.c) : A program that explains how to work with the logical NOT operator.
+* [Malloc().c](./Malloc().c) : A program showing the use of malloc().
 * [MathFunctions.c](./MathFunctions.c) : A program that explains and shows the use of the math header file.
 * [MemoryAddresses.c](./MemoryAddresses.c) : A program that shows how to work with memory addresses.
 * [NestedLoops.c](./NestedLoops.c) : A program that shows the use of nested loops.
