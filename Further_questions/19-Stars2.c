@@ -8,8 +8,10 @@ int main()
 
     for (i = 1; i <= 5; i++)      // Number of rows
     {
+        // printf(" ");           // Makes the stars right align
+
         for (j = 5; j >= i; j--)  // Number of spaces from right
-            printf(" ");
+            printf(" ");          // Makes the stars left align
 
         for (k = 1; k <= i; k++)  // Number of stars
             printf("*");

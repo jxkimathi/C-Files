@@ -2,7 +2,7 @@
 
 // main - A program that takes in an input of 5 numbers and sorts them in ascending order
 
-void sort(int array[], int size)
+void sort(int array[], int size) // BubbleSort Algorithm
 {
     int i, j, temp;
 
@@ -10,7 +10,7 @@ void sort(int array[], int size)
     {
         for (j = 0; j < (size-i- 1); j++)
         {
-            if (array[j] > array[j+1])
+            if (array[j] > array[j+1])  // Perform a swap
             {
                 temp = array[j];
                 array[j] = array[j+1];

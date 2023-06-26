@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction 🛫
 Hello There! 👋🏾
 This is a repository I created in order to do some simple tasks for practice during my first year of coding in C. 😁
 
@@ -12,7 +12,9 @@ Here is a small description on each project;
 * [HelloWorld.c](./HelloWorld.c) : The first code I have written in C Programming.
 * [Arguments.c](./Arguments.c) : A program that describes how to use arguments.
 * [ArithmeticOperators.c](./ArithmeticOperators.c) : A program showing the use of different arithmetic operators.
+* [Array2DFunction.c](./Array2dFunction.c) : A program that shows how to pass a multi dimensional array to a function.
 * [ArrayLoop.c](./ArrayLoop.c) : A program that shows the use of array loops.
+* [ArrayPointerFunctions.c](./ArrayPointerFunction.c) : A program showing how to pass pointers and arrays to functions.
 * [Arrays.c](./Arrays.c) : A program to declare and initialize arrays.
 * [Arrays2D.c](./Arrays2D.c) : A program to declare and initialize 2D arrays.
 * [ArraySort.c](./ArraySort.c) : A program to sort out an array using the Bubble Sort algorithm.
@@ -39,18 +41,23 @@ Here is a small description on each project;
 * [MathFunctions.c](./MathFunctions.c) : A program that explains and shows the use of the math header file.
 * [MemoryAddresses.c](./MemoryAddresses.c) : A program that shows how to work with memory addresses.
 * [NestedLoops.c](./NestedLoops.c) : A program that shows the use of nested loops.
+* [PointerArithmetic.c](./PointerArithmetic.c) : A program that deals with pointer arithmetic.
 * [Pointers.c](./Pointers.c) : A program that shows how to work with pointers.
+* [PointingtoFunctions.c](./PointingtoFunctions.c) : A program that explains pointers to functions.
 * [ReadingFiles.c](./ReadingFiles.c) : A program that shows how to read into files.
 * [Return.c](./Return.c) : A program that shows the work of the return function in the code.
+* [ScopeStorageClasses.c](./ScopeStorageClass.c) : A program showing the different scopes and storage classes.
 * [StringFunctions.c](./StringFunctions.c) : A program that shows how to work with string functions.
 * [Structs.c](./Structs.c) : A program that shows the use of structures.
 * [SwapVal.c](./SwapVal.c) : A program that shows how to swap two values using a third variable.
 * [SwitchStatements.c](./SwitchStatements.c) : A program that shows how to work with switch statements.
 * [TemperatureConv.c](./TemperatureConv.c) : A program that converts the temperature between celcius and centigrade.
 * [Ternary.c](./Ternary.c) : A program that shows how to work with a ternary operator.
+* [Time.c](./Time.c) : A program to show how to call current time.
 * [Typedef.c](./Typedef.c) : A program that shows how to work woth the typedef reserved keyword.
 * [UserInput.c](./UserInput.c) : A program that shows the different ways to input data into a code.
 * [Variables.c](./Variables.c) : A program that explains and shows how to declare and initialize variables.
+* [VariableArguments.c](./VariableArguments.c) : A program explaining the use of variable arguments.
 * [WhileLoops.c](./WhileLoops.c) : A program that shows how to work with while loops.
 * [WritingFiles.c](./WritingFiles.c) : A program that shows how to write into files.
 * [0-Alphabet.c](./0-Alphabet.c) : A Program that prints the alphabet in lowercase.
@@ -71,7 +78,7 @@ Here is a small description on each project;
 * [15-Sum.c](./15-Sum.c) : A program to print the sum of odd numbers between 0 and 10 using continue.
 * [16-OddEven.c](./16-OddEven.c) : A program that prints odd and even numbers using the goto statement.
 
-# Conclusion 
+# Conclusion 🏁
 This is my first step into the world of coding and despite the numerous missed semi colons 😂, the countless hours looking for one small error that can be found with difficulty 😔 and the painstaking thinking and white boarding with my stuffed duck 🌚, this has been and continues to be a blast.
 I hope each and every one of you can experience the bliss that comes with coding and the euphoric feeling of getting a perfectly working code. 💻
 Thank you for visiting my profile. 🙏🏾
