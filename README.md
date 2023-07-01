@@ -23,6 +23,7 @@ Here is a small description on each project;
 * [AugmentedAssOp.c](./AugmentedAssOp.c) : A program showing the use of augmented arithmetic operators.
 * [Calculator.c](./Calculator.c) : A program to create a miniature calculator using switch case.
 * [Circumference.c](./Circumference.c) : A program to get circumference and area of a circle.
+* [CommandLineArgs.c](./CommandLineArgs.c) : A program describing command-line arguments.
 * [Constants.c](./Constants.c) : A program showing the use of constants in declaring and initializing variables.
 * [DataTypes.c](./DataTypes.c) : A program showing and explaining the different data types.
 * [DoWhileLoop.c](./DoWhileLoop.c) : A program to show the use of Do While loops.
@@ -46,6 +47,7 @@ Here is a small description on each project;
 * [Pointers.c](./Pointers.c) : A program that shows how to work with pointers.
 * [PointingtoFunctions.c](./PointingtoFunctions.c) : A program that explains pointers to functions.
 * [ReadingFiles.c](./ReadingFiles.c) : A program that shows how to read into files.
+* [Realloc().c](./Realloc().c) : A program showing the use of realloc() to allocate memory.
 * [Return.c](./Return.c) : A program that shows the work of the return function in the code.
 * [ScopeStorageClasses.c](./ScopeStorageClass.c) : A program showing the different scopes and storage classes.
 * [StringFunctions.c](./StringFunctions.c) : A program that shows how to work with string functions.
