@@ -21,6 +21,7 @@ Here is a small description on each project;
 * [ArrayStrings.c](./ArrayStrings.c) : A program to show how arrays are used in strings.
 * [ArrayStructs.c](./ArrayStructs.c) : A program to show how arrays are used in structures.
 * [AugmentedAssOp.c](./AugmentedAssOp.c) : A program showing the use of augmented arithmetic operators.
+* [BitFields.c](./BitFields.c) : A program that shows how to work with bit fields in structures.
 * [Calculator.c](./Calculator.c) : A program to create a miniature calculator using switch case.
 * [Circumference.c](./Circumference.c) : A program to get circumference and area of a circle.
 * [CommandLineArgs.c](./CommandLineArgs.c) : A program describing command-line arguments.
@@ -43,6 +44,7 @@ Here is a small description on each project;
 * [MathFunctions.c](./MathFunctions.c) : A program that explains and shows the use of the math header file.
 * [MemoryAddresses.c](./MemoryAddresses.c) : A program that shows how to work with memory addresses.
 * [NestedLoops.c](./NestedLoops.c) : A program that shows the use of nested loops.
+* [NestedStructs.c](./NestedStructs.c) : A program that explains the use of nested structures.
 * [PointerArithmetic.c](./PointerArithmetic.c) : A program that deals with pointer arithmetic.
 * [Pointers.c](./Pointers.c) : A program that shows how to work with pointers.
 * [PointingtoFunctions.c](./PointingtoFunctions.c) : A program that explains pointers to functions.
@@ -51,6 +53,8 @@ Here is a small description on each project;
 * [Return.c](./Return.c) : A program that shows the work of the return function in the code.
 * [ScopeStorageClasses.c](./ScopeStorageClass.c) : A program showing the different scopes and storage classes.
 * [StringFunctions.c](./StringFunctions.c) : A program that shows how to work with string functions.
+* [StructFuncs.c](./StructFuncs.c) : A program that shows the integration of structures with functions.
+* [StructPointers.c](./StructPointers.c) : A program that shows relations between structures and pointers.
 * [Structs.c](./Structs.c) : A program that shows the use of structures.
 * [SwapVal.c](./SwapVal.c) : A program that shows how to swap two values using a third variable.
 * [SwitchStatements.c](./SwitchStatements.c) : A program that shows how to work with switch statements.
@@ -58,6 +62,7 @@ Here is a small description on each project;
 * [Ternary.c](./Ternary.c) : A program that shows how to work with a ternary operator.
 * [Time.c](./Time.c) : A program to show how to call current time.
 * [Typedef.c](./Typedef.c) : A program that shows how to work woth the typedef reserved keyword.
+* [Unions.c](./Unions.c) : A program that shows the use of unions.
 * [UserInput.c](./UserInput.c) : A program that shows the different ways to input data into a code.
 * [Variables.c](./Variables.c) : A program that explains and shows how to declare and initialize variables.
 * [VariableArguments.c](./VariableArguments.c) : A program explaining the use of variable arguments.
